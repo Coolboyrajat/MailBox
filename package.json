@@ -1,0 +1,41 @@
+{
+    "name": "mailbox-extension",
+    "displayName": "MailBox",
+    "version": "0.1.0",
+    "description": "Access multiple temporary email services in one place",
+    "scripts": {
+      "dev": "plasmo dev",
+      "build": "plasmo build"
+    },
+    "dependencies": {
+      "@plasmohq/storage": "^1.6.1",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
+      "react-icons": "^4.10.1",
+      "webextension-polyfill": "^0.10.0"
+    },
+    "devDependencies": {
+      "@plasmohq/prettier-plugin-sort-imports": "^3.6.4",
+      "@types/chrome": "^0.0.237",
+      "@types/node": "^20.2.5",
+      "@types/react": "^18.2.8",
+      "@types/react-dom": "^18.2.4",
+      "@types/webextension-polyfill": "^0.10.0",
+      "autoprefixer": "^10.4.14",
+      "plasmo": "^0.82.0",
+      "postcss": "^8.4.24",
+      "prettier": "^2.8.8",
+      "tailwindcss": "^3.3.2",
+      "typescript": "^5.1.3"
+    },
+    "manifest": {
+      "host_permissions": [
+        "https://api.mail.tm/*",
+        "https://temp-mail.org/*",
+        "https://tempmailo.com/*"
+      ],
+      "permissions": [
+        "storage"
+      ]
+    }
+  }

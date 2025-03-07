@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-background text-text font-sans;
+  }
+}
+
+@layer components {
+  .action-button {
+    @apply px-4 py-2 bg-primary text-white border-none rounded-button cursor-pointer text-sm transition-colors hover:bg-blue-600;
+  }
+  
+  .icon-button {
+    @apply bg-transparent border-none cursor-pointer text-primary text-sm hover:underline;
+  }
+}
