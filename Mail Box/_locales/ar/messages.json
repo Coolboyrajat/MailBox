@@ -1,0 +1,84 @@
+﻿{
+  "appName": {
+    "message": "TempMail - عنوان البريد الإلكتروني المؤقت",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "مؤقت بريد إلكتروني مؤقت. حماية البريد الإلكتروني من البريد المزعج، والسير والخداع مع TempMail",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "تغيير",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "نسخ",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "افحص البريد",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "عنوان البريد الإلكتروني الخاص بك مؤقت",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "انتظر لحظة",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "لا شكرا",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "شارك",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "قيمنا",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "شكرا",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "لديك بريد جديد",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "رسائل غير مقروءة",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "صندوق الوارد",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "إذا كنت تحب تطبيقنا ، فيرجى قضاء بعض الوقت لتقييمه في متجر الويب",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "رمز الاستجابة السريعة",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "زر الملء التلقائي للنماذج",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "أضف إلى قائمة الاستثناءات",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "إزالة من قائمة الاستثناءات",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "الصق البريد الإلكتروني المؤقت",
+    "description": "Paste Temp Mail address"
+  }
+
+}

@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Temp Mail - Disposable Temporary Email",
+    "description": "Temp Mail - Disposable Temporary Email"
+  },
+  "appDesc": {
+    "message": "Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Change",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Copy",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "CHECK MAIL",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Your Temporary Email address",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Wait a moment",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "No, thanks",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "Share us",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Rate Us",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "Thank you",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "You have new mail",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "unread message(s)",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Inbox",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "If you love our app, please take a moment to rate it in web store.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR code",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "Forms autofill button",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "Add to exception list",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "Remove from exception list",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Paste Temp Mail address",
+    "description": "Paste Temp Mail address"
+  }
+}

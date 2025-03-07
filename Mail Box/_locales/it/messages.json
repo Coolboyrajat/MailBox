@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Temp Mail - Email Temporanea Usa e Getta",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "Indirizzo e-mail usa e getta temporanea. Proteggi la tua e-mail da spam, phishing e bot con TempMail.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Cambia",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Copia",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "CONTROLLARE EMAIL",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Il tuo indirizzo email temporaneo",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Aspetta un momento",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "No grazie",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "siamo Condividi",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Tasso",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "Grazie",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "Avete nuova posta",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "messaggi non letti",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Posta in arrivo",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "Se ami la nostra app, ti preghiamo di prendere un momento per valutarla nel web store.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR Code",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "Pulsante di riempimento automatico dei moduli",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "Aggiungi all'elenco delle eccezioni",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "Rimuovi dall'elenco delle eccezioni",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Incolla l'indirizzo email temporaneo",
+    "description": "Paste Temp Mail address"
+  }
+}

@@ -1,0 +1,83 @@
+﻿{
+  "appName": {
+    "message": "Temp Mail - Einweg temporäre E-Mail-Adresse",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "Vorübergehende E-Mail-Adresse. Schützen Sie Ihre E-Mails vor Spam, Bots und Phishing mit TempMail.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Ändern",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Kopie",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "PRÜFEN MAIL",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Ihre temporäre E-Mail-Adresse",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Warte bitte",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "Nein Danke",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "Aktie",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Preis",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "Danke",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "Du hast neue Mail",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "ungelesene nachrichten",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Posteingang",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "Wenn Sie unsere App lieben, nehmen Sie sich bitte einen Moment Zeit, um sie im Webshop zu bewerten.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR-Code",
+      "description": "QR code"
+ },
+  "forms_autofill_button": {
+    "message": "Forms Autofill-Taste",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "Zur Ausnahmeliste hinzufügen",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "Aus Ausnahmeliste entfernen",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Temporäre E-Mail-Adresse einfügen",
+    "description": "Paste Temp Mail address"
+  }
+}

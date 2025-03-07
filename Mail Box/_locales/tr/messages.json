@@ -1,0 +1,83 @@
+﻿{
+  "appName": {
+    "message": "Temp Mail - Geçici E-posta Hizmeti",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "Geçici tek kullanımlık e-posta adresi. TempMail ile e-postalarınızı spam, botlar ve kimlik avına karşı korumayın.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Takas",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Kopyala",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "POSTAYI KONTROL ET",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Geçici E-posta adresiniz",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Biraz bekle",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "Hayır teşekkürler",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "Bize paylaş",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Bizi değerlendirin",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "teşekkür ederim",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "Yeni mailin var",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "Okunmamış mesaj",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Gelen kutusu",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "Bizim app seviyorsanız, web mağazasında değerlendirmek için lütfen bir dakikanızı ayırın.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR kod",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "Formları otomatik doldurma düğmesi",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "İstisna listesine ekle",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "İstisna listesinden kaldır",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Geçici e-posta adresini yapıştırın",
+    "description": "Paste Temp Mail address"
+  }
+}

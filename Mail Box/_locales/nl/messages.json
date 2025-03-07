@@ -1,0 +1,83 @@
+{
+  "appName": {
+    "message": "Temp Mail - Disposable tijdelijk e-mailadres",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "Tijdelijke wegwerpadres. Bescherm uw e-mail van spam, bots en phishing met TempMail.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Amend.",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Kopie",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "CONTROLEER MAIL",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Uw tijdelijk e-mailadres",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Wacht even",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "Nee, dank u wel",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "Deel ons",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Beoordeel ons",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "Dank je",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "U hebt nieuwe e-mail",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "ongelezen berichten",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Postvak IN",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "Als u van onze app houdt, neem dan even de tijd om deze in de webwinkel te beoordelen.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR code",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "Formulieren automatisch invullen knop",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "Toevoegen aan uitzonderingenlijst",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "Verwijderen uit uitzonderingenlijst",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Plak tijdelijk e-mailadres",
+    "description": "Paste Temp Mail address"
+  }
+}

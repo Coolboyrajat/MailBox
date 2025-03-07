@@ -1,0 +1,83 @@
+﻿{
+  "appName": {
+    "message": "Temp Mail - Привремени за једнократну Е-маил",
+    "description": "Temp Mail - Disposable Temporary Email" 
+  },
+  "appDesc": {
+    "message": "Привремена за једнократну употребу е-маил адреса. Заштитите своју е-пошту од спам и пхисхинг са TempMail.",
+    "description":"Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail."
+  },
+
+  "change": {
+    "message": "Промена",
+    "description": "Change"
+  },
+  "copy": {
+    "message": "Копија",
+    "description": "Copy"
+  },
+  "check_mail": {
+    "message": "ПРОВЕРИТЕ EMAIL",
+    "description": "CHECK MAIL"
+  },
+  "your_temporary_email_address": {
+    "message": "Ваш Привремена Email адреса",
+    "description": "Your Temporary Email address"
+  },
+  "wait_a_moment": {
+    "message": "Сачекајте тренутак",
+    "description": "Wait a moment"
+    },
+    "no_thanks": {
+        "message": "Не хвала",
+        "description": "no thanks button"
+    },
+    "share_us": {
+        "message": "Удео",
+        "description": "vote & sharing"
+    },
+    "rate_us": {
+        "message": "Оцените нас",
+        "description": "vote & sharing"
+    },
+    "thank_you": {
+        "message": "Хвала вам",
+        "description": "vote & sharing"
+    },
+    "new_mail_notification_header": {
+        "message": "Иоу хаве нев маил",
+        "description": "You have new mail"
+    },
+    "new_mail_notification_body": {
+        "message": "непрочитане поруке",
+        "description": "unread message(s)"
+    },
+    "inbox": {
+      "message": "Инбок",
+      "description": "Inbox"
+    },
+    "rate_us_text": {
+      "message": "Ако волите нашу апликацију, узмите тренутак да је оцијените у веб-трговини.",
+      "description": "vote & sharing"
+    },
+    "qr_code": {
+      "message": "QR цоде",
+      "description": "QR code"
+  },
+  "forms_autofill_button": {
+    "message": "Формс АутоФилл дугме",
+    "description": "Forms autofill button"
+  },
+  "add_to_exception_list": {
+    "message": "Додај у листу изузетака",
+    "description": "Add to exception list"
+  },
+  "remove_from_exception_list": {
+    "message": "Уклони са листе изузетака",
+    "description": "Remove from exception list"
+  },
+  "paste_tm_address": {
+    "message": "Налепите привремену адресу е-поште",
+    "description": "Paste Temp Mail address"
+  }
+}
