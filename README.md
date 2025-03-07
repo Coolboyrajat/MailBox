@@ -1,7 +1,7 @@
 # MailBox
 
 // Directory Structure
-/*
+```/*
 mailbox-extension/
 ├── package.json
 ├── tsconfig.json
@@ -34,8 +34,9 @@ mailbox-extension/
 │               └── tempmailo.png
 └── .gitignore
 */
+```
 
 
 // Run these commands to get started:
-// npm create plasmo
-// npm install @plasmohq/storage react-icons webextension-polyfill tailwindcss postcss autoprefixer
+``` npm create plasmo ```
+``` npm install @plasmohq/storage react-icons webextension-polyfill tailwindcss postcss autoprefixer ```
